@@ -1,0 +1,35 @@
+h1{
+    color:rgb(69, 58, 226);
+}
+.header{
+    display: flex;
+    justify-content:space-between;
+    background-color:rgb(8, 5, 0);
+    padding: 15px;
+    font-size: 20px;
+    font-family: sans-serif;
+    font-weight: 400;
+    border: 5px solid #000000;
+    border-radius: 20px;
+    color: #FFFFFF;
+    
+ 
+}
+.Grid{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    background-color:rgb(173, 130, 73);
+    border: 5px solid #000000;
+    border-radius: 20px;
+
+
+}
+h2,p{
+    text-align: center;
+}
+
+.Description{
+  background-color:rgb(35, 129, 146);
+
+}
